@@ -6,3 +6,14 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+.container{
+  margin: 0 auto;
+background-image: url('/overlay.png'), url('../src/components/aeroplane-aircraft-airplane-54098.jpg');
+background-repeat: repeat, no-repeat;
+background-size: auto, 100% 100%;
+background-attachment: fixed;
+color: gold;
+max-width: 600px;
+border-radius: 20px;
+border: 10px inset gold;
+}
